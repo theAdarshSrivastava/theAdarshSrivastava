@@ -10,7 +10,12 @@ I am Adarsh Srivastava, currently pursuing my bachelor's degree in Computer Scie
 
 ## ⚡ Technologies
 
-![Tensorflow](https://www.tensorflow.org/)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=flat-square&logo=Tensorflow)
+![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=flat-square&logo=matplotlib)
+![Pandas](https://img.shields.io/badge/-pandas-white?style=flat-square&logo=pandas)
+![Sklearn](https://img.shields.io/badge/-sklearn-white?style=flat-square&logo=sklearn)
+![Keras](https://img.shields.io/badge/-keras-white?style=flat-square&logo=keras)
+![Seaborn](https://img.shields.io/badge/-Opencv-white?style=flat-square&logo=Opencv)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
