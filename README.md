@@ -3,6 +3,8 @@
 <img src="" alt="Data Analyst" style="float:right;width:42px;height:42px;">
 I am Adarsh Srivastava, currently pursuing my bachelor's degree in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning from SRM Institute of Science and Technology. I am a AIML enthusiast & a Community Executive at SRM-Machine Intelligence Community. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 </p>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-theAdarshSrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theAdarshSrivastava/)](https://www.linkedin.com/in/anirudhemmadi/theAdarshSrivastava)
 [![Instagram Badge](https://img.shields.io/badge/-the_Adarsh6700-red?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/the_adarsh6700/)](https://instagram.com/the_adarsh6700)
 [![Medium Badge](https://img.shields.io/badge/-@adarshsrivastav123.as-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@adarshsrivastav123.as)](https://medium.com/@adarshsrivastav123.as)
