@@ -1,6 +1,6 @@
 ## ⚡ Hi there 👋
 <p>
-<img src="2555355.jpg" alt="Data Analyst" align="right" height=200 width=200>
+<img src="2555355.jpg" alt="Data Analyst" align="right" height=200 width=250>
 I am Adarsh Srivastava, currently pursuing my bachelor's degree in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning from SRM Institute of Science and Technology. I am a AIML enthusiast & a Community Executive at SRM-Machine Intelligence Community. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 </p>
 
